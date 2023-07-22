@@ -1,0 +1,11 @@
+Tong Diem Robot A: 1886
+So o ma robot A da di: 14
+Gia tri tai cac o ma robot A da di : 
+43 90 100 101 66 543 200 150 154 178 76 54 32 99 
+Tong diem Robot B: 1174
+So o ma robot B da di: 7
+Gia tri tai cac o ma robot B da di : 
+65 101 100 99 200 543 66 
+Robot A Thang!
+Toa do trung nhau cua 2 con robot lan luot la: 
+(3, 3) (3, 4) (4, 3) (4, 4) (5, 3) (5, 4) 
